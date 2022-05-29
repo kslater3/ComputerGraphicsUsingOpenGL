@@ -1,0 +1,1 @@
+Make a cooler looking Sillouhette of a house with a Staggered Chimney and a Crease in the Roof stored in a DAT file, and read "dat" file in and apply the house_2 logic of scaling the list of points to it, to make a more artistic and beautful solution to the section 2 house exercise.
